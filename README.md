@@ -15,6 +15,8 @@
 
 Xcode Classic Light and Dark share one Tine theme: clean white for day and soft graphite for night, with the familiar blue links and measured syntax colors of the Xcode palette.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Xcode · Prism in Tine dark mode](docs/xcode-dark.png)

@@ -8,6 +8,8 @@
 
 Xcode Classic Light 与 Dark 汇入同一套 Tine 主题：白日清爽洁白，夜晚柔和石墨，并延续 Xcode 配色中熟悉的蓝色链接与克制的语法色彩。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Xcode · Prism 深色模式实拍](docs/xcode-dark.png)
